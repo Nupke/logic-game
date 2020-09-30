@@ -1,13 +1,14 @@
 # logic-game
 
-A simple game for developing thinking, you set the number of examples and within one minute you must solve as many examples as possible
-
+this game is written in react, the meaning of the game is as follows, the user sets the number with an example and will be redirected to a page with examples there he must solve randomly generated examples within one minute
+![1photo](https://user-images.githubusercontent.com/53897254/94731571-4a6a6900-0365-11eb-9e98-597b8a709009.png)
 ![2](https://user-images.githubusercontent.com/53897254/94731114-894bef00-0364-11eb-998e-d56af76c3b83.png)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-![2](https://user-images.githubusercontent.com/53897254/94731114-894bef00-0364-11eb-998e-d56af76c3b83.png)
 
 ## Available Scripts
 
