@@ -1,0 +1,42 @@
+:root {
+
+    --input-color: #99A3BA;
+    --input-border: #cdd9ed;
+    --input-background: #ffffff;
+    --input-placeholder: #CBD1DC;
+
+    --input-border-focus: #275EFE;
+
+    --group-color: var(--input-color);
+    --group-border: var(--input-border);
+    --group-background: #EEF4FF;
+
+    --group-color-focus: #fff;
+    --group-border-focus: var(--input-border-focus);
+    --group-background-focus: #678EFE;
+
+}
+
+
+
+
+
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EDF2F9;
+}
+
+.board-card {
+    padding: 20px;
+    background-color: #ffff;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: 50px auto 50px;
+    box-shadow: 0px 2px 22px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+}
+
