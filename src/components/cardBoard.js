@@ -44,7 +44,7 @@ const  CardBoard = (props) =>{
     return(
         <form onSubmit={submitHandler} >
             <div className="form-group">
-                <label htmlFor='title'>Set your number from 20 to 60</label>
+                <label htmlFor='title'><S></S>et your number from 20 to 60</label>
                 <input
                     type='title'
                     className='form-control'
