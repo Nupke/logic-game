@@ -20,7 +20,7 @@ const format = time => {
 export default function Timer(props) {
     const dispatch = useDispatch();
 
-    const [counter, setCounter] = React.useState(10);
+    const [counter, setCounter] = React.useState(60);
     React.useEffect(() => {
         let timer;
         if (counter > 0) {
