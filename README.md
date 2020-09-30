@@ -1,3 +1,9 @@
+# logic-game
+
+A simple game for developing thinking, you set the number of examples and within one minute you must solve as many examples as possible
+
+![2](https://user-images.githubusercontent.com/53897254/94731114-894bef00-0364-11eb-998e-d56af76c3b83.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
@@ -69,4 +75,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# logic-game
+
